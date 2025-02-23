@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Biblioteca virtual de Morales</title>
+    <link>https://javiermnk8.github.io</link>
+    <description>La biblioteca virtual de Morales con su catálogo y servicios.</description>
+    <language>es</language>
+
+    <!-- Enlace atom:link -->
+    <atom:link href="https://javiermnk8.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Ítem para el catálogo -->
+    <item>
+      <title>Catálogo de Libros</title>
+      <link>https://javiermnk8.github.io/Catalogo.html</link>
+      <description>Explora todos los libros disponibles en el catálogo de la biblioteca.</description>
+      <pubDate>Mon, 19 Feb 2025 10:00:00 +0000</pubDate>
+      <guid>https://javiermnk8.github.io/Catalogo.html</guid>
+    </item>
+
+    <!-- Ítem para los servicios -->
+    <item>
+      <title>Servicios de la Biblioteca</title>
+      <link>https://javiermnk8.github.io/Servicio.html</link>
+      <description>Conoce los servicios que ofrecemos para mejorar tu experiencia de lectura.</description>
+      <pubDate>Mon, 19 Feb 2025 11:00:00 +0000</pubDate>
+      <guid>https://javiermnk8.github.io/Servicio.html</guid>
+    </item>
+
+    <!-- Ítem para la página de contacto -->
+    <item>
+      <title>Contacto</title>
+      <link>https://javiermnk8.github.io</link>
+      <description>¿Tienes preguntas o comentarios? Contáctanos a través del formulario.</description>
+      <pubDate>Mon, 19 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://javiermnk8.github.io</guid>
+    </item>
+
+  </channel>
+</rss>
